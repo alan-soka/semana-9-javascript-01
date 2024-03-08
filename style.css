@@ -3,10 +3,10 @@
     margin: 1rem;
 }
 
-.cuadro {
+.square {
     --size: 200px;
-    width:var (--size);
-    height:var (--size);
+    width:var(--size);
+    height:var(--size);
     border: 3px solid black;
 }
 
